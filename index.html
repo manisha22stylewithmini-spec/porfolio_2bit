@@ -28,7 +28,7 @@ a{color:inherit;text-decoration:none}
 .logo img{width:78px}
 .timer{position:absolute;left:50%;top:16px;transform:translateX(-50%);display:inline-flex;align-items:center;gap:8px;width:max-content;max-width:calc(100% - 32px);padding:6px 18px 6px 9px;border:1px solid #f0c77a;background:#fdf3d9;border-radius:20px;font-size:13.5px;font-weight:500;color:#5b4a2a;line-height:1.3;z-index:2}
 .timer img{width:22px;height:auto;flex:none;border-radius:4px}
-.timer .live{flex:none;width:6px;height:6px;border-radius:50%;background:#3fbf5f;box-shadow:0 0 0 3px #3fbf5f33;animation:pulse 1.6s infinite}
+.timer .status-dot{flex:none;width:6px;height:6px;border-radius:50%;background:#3fbf5f;box-shadow:0 0 0 3px #3fbf5f33;animation:pulse 1.6s infinite}
 @keyframes pulse{50%{box-shadow:0 0 0 6px #3fbf5f00}}
 .hero-top{position:absolute;left:0;right:0;top:58px;text-align:center}
 .hero-top .sub{font-size:clamp(14px,1.6vw,19px);font-weight:500;letter-spacing:-.2px}
@@ -524,7 +524,7 @@ kbd{display:inline-grid;place-items:center;min-width:28px;height:28px;padding:0 
 
 <!-- ============ HERO ============ -->
 <header class="hero" id="top">
-  <div class="timer"><img src="img/megaphone.png" alt=""><span class="live"></span>Currently: Product &amp; Brand Designer @ Cubezix</div>
+  <div class="timer"><img src="img/megaphone.png" alt=""><span class="status-dot"></span>Currently: Product &amp; Brand Designer @ Cubezix</div>
 
   <img class="stk" src="img/s-robot.png" style="left:calc(50% - 540px);top:150px;width:54px" alt="">
   <img class="stk" src="img/s-coinblue.png" style="left:calc(50% - 600px);top:70px;width:52px;animation-delay:.6s" alt="">
