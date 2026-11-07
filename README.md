@@ -24,3 +24,16 @@ Then open http://localhost:8765
 - `index.html` — page, styles and page scripts
 - `game.js` — the Designer Quest game
 - `img/` — illustrations, stickers and project screenshots
+
+## Find me online
+
+- [LinkedIn](https://www.linkedin.com/in/manisha-baroliya-488016265/)
+- [Behance](https://www.behance.net/manishabarol2023)
+- [Dribbble](https://dribbble.com/manisha_baroliya)
+- [Instagram](https://www.instagram.com/offical_manisha_baroliya/)
+- [X](https://x.com/Manisha_Offical)
+- [Facebook](https://www.facebook.com/uxdesignermanisha/)
+- [Pinterest](https://in.pinterest.com/uxdesignermanisha/)
+- [GitHub](https://github.com/manisha22stylewithmini-spec)
+- [UI.Live](https://ui.live/profile/Manishabaroliya)
+- [Muzli](https://me.muz.li/manisha_baroliya)
